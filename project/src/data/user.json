@@ -1,0 +1,15 @@
+{
+  "id": "user123",
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "favorites": [299536, 299534, 299537],
+  "watchlist": [299536, 324857, 383498, 447365],
+  "ratings": {
+    "299536": 4.5,
+    "299534": 5,
+    "324857": 3.5
+  },
+  "preferences": {
+    "genres": [28, 12, 878]
+  }
+}
